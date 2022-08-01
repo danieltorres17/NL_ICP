@@ -1,0 +1,11 @@
+# Common style
+Language: Cpp
+BasedOnStyle: Google
+
+AccessModifierOffset: -2
+BreakConstructorInitializers: BeforeColon
+ConstructorInitializerIndentWidth: 2
+ColumnLimit: 110
+SortIncludes: false
+IndentWidth: 2
+TabWidth: 2
