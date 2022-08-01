@@ -13,7 +13,7 @@
 #include <pcl/visualization/common/common.h>
 #include <pcl/visualization/pcl_visualizer.h>
 
-#include "PointToPointResidual.h"
+#include "NL_ICP/PointToPointResidual.h"
 
 int main(int argc, char** argv) {
   const std::string cloud_path = "../data/region_growing_tutorial.pcd";

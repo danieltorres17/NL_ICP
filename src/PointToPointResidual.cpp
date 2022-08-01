@@ -1,4 +1,4 @@
-#include "PointToPointResidual.h"
+#include "NL_ICP/PointToPointResidual.h"
 
 #include <ceres/rotation.h>
 #include <ceres/autodiff_cost_function.h>
